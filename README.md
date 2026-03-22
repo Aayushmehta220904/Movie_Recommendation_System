@@ -135,5 +135,3 @@ This project demonstrates:
 
 **Aayush Mehta**
 
-
-<img width="451" height="693" alt="image" src="https://github.com/user-attachments/assets/1351f4b8-b3f6-4636-abf7-62870ef8902d" />
